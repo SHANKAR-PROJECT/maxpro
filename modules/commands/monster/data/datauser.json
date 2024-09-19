@@ -1,0 +1,40 @@
+[
+    {
+        "id": "100053654320028",
+        "name": "Fai KA",
+        "level": 1,
+        "exp": 0,
+        "hp": 1000,
+        "atk": 250,
+        "def": 200,
+        "spd": 100,
+        "the_luc": 500,
+        "karma": 0,
+        "points": 0,
+        "weapon": null,
+        "locationID": "0",
+        "bag": [
+            {
+                "type": "weapon",
+                "id": 10,
+                "name": "Iron Sword I",
+                "usage": 0,
+                "HP": 4000,
+                "ATK": 210,
+                "DEF": 210,
+                "SPD": 2000,
+                "durability": 100,
+                "dmgBonus": 1,
+                "defBonus": 1,
+                "hpBonus": 1,
+                "spdBonus": 1,
+                "ArmorPiercing": 1,
+                "price": 1000,
+                "image": "https://i.imgur.com/JB2JAEm.png"
+            }
+        ],
+        "monster": [],
+        "history": [],
+        "created": 1708079464637
+    }
+]
